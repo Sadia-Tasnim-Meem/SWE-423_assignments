@@ -2,7 +2,7 @@
 
 ## Description
 
-The algorithm was coded using Python language. The different test cases and their ouput are as follows:
+The algorithm was coded using both C++ and Python language. Python was used later for visualization. The different test cases and their ouput are as follows:
 
 ## Case 1: (1,1), (8,4)
 
